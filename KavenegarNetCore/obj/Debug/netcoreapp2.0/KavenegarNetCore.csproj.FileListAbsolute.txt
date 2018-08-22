@@ -1,0 +1,9 @@
+C:\Users\Jamal\Desktop\Files\Projects\kavenegar-csharp\KavenegarNetCore\bin\Debug\netcoreapp2.0\KavenegarNetCore.deps.json
+C:\Users\Jamal\Desktop\Files\Projects\kavenegar-csharp\KavenegarNetCore\bin\Debug\netcoreapp2.0\KavenegarNetCore.dll
+C:\Users\Jamal\Desktop\Files\Projects\kavenegar-csharp\KavenegarNetCore\obj\Debug\netcoreapp2.0\KavenegarNetCore.csprojAssemblyReference.cache
+C:\Users\Jamal\Desktop\Files\Projects\kavenegar-csharp\KavenegarNetCore\obj\Debug\netcoreapp2.0\KavenegarNetCore.csproj.CoreCompileInputs.cache
+C:\Users\Jamal\Desktop\Files\Projects\kavenegar-csharp\KavenegarNetCore\obj\Debug\netcoreapp2.0\KavenegarNetCore.AssemblyInfoInputs.cache
+C:\Users\Jamal\Desktop\Files\Projects\kavenegar-csharp\KavenegarNetCore\obj\Debug\netcoreapp2.0\KavenegarNetCore.AssemblyInfo.cs
+C:\Users\Jamal\Desktop\Files\Projects\kavenegar-csharp\KavenegarNetCore\bin\Debug\netcoreapp2.0\KavenegarNetCore.pdb
+C:\Users\Jamal\Desktop\Files\Projects\kavenegar-csharp\KavenegarNetCore\obj\Debug\netcoreapp2.0\KavenegarNetCore.dll
+C:\Users\Jamal\Desktop\Files\Projects\kavenegar-csharp\KavenegarNetCore\obj\Debug\netcoreapp2.0\KavenegarNetCore.pdb
