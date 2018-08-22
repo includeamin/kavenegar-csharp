@@ -1,4 +1,5 @@
-# Dotnet SDK
+# Dotnet SDK 
+# DotnetCore SDK support has been added
 
 # <a href="http://kavenegar.com/rest.html">Kavenegar RESTful API Document</a>
 If you need to future information about API document Please visit RESTful Document
